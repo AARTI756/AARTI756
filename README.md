@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Aarti Sakpal
 
-<!--
-**AARTI756/AARTI756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Passionate about Machine Learning & Web Development  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Languages: Python, Java, C, SQL
+- Web: HTML, CSS, JavaScript, Django
+- Tools: Git, GitHub, VS Code, Cisco Packet Tracer
+
+---
+
+## 📂 Projects
+- 🔹 Smart QR System  
+- 🔹 Company Network Design (Cisco)  
+- 🔹 Machine Learning Lab Work  
+- 🔹 Password Manager (Python + Encryption)  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aarti-sakpal-3690482b3/
+- Email: asakpal756@gmail.com
+
+---
+
+⭐ *“Always learning, always building”*
