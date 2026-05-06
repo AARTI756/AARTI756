@@ -7,8 +7,8 @@
 ---
 
 ## 🔧 Skills
-- Languages: Python, Java, C, SQL
-- Web: HTML, CSS, JavaScript, Django
+- Languages: Python, C, SQL
+- Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code, Cisco Packet Tracer
 
 ---
